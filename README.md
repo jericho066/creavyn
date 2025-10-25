@@ -9,19 +9,19 @@ A modern, intuitive web application that helps developers create beautiful portf
 
 #### Choose Your Template
 Start with one of our professionally designed templates - Minimal or Bold.
-<img src="screenshots/tamplates.png">
+<img src="screenshots/tamplates.png" width="800">
 
 #### Build in Real-Time
 Edit your portfolio on the left, see changes instantly on the right. Live preview updates as you type.
-<img src="screenshots/interface.png">
+<img src="screenshots/interface.png" width="800">
 
 #### Customize Your Colors
 Choose from 10 pre-made color palettes or create your own custom theme.
-<img src="screenshots/theme.png">
+<img src="screenshots/theme.png" width="800">
 
 #### Professional Results
 Export a polished, production-ready portfolio. Here's what your final site looks like.
-<img src="screenshots/result.png">
+<img src="screenshots/result.png" width="800">
 
 ### Live Demo
 [View Live]()

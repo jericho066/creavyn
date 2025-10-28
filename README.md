@@ -8,7 +8,7 @@ A modern, intuitive web application that helps developers create beautiful portf
 ### Screenshots
 
 #### Choose Your Template
-Start with one of our professionally designed templates - Minimal or Bold.
+Start with one of its professionally designed templates - Minimal or Bold.
 <img src="screenshots/template.png" width="800">
 
 #### Build in Real-Time
@@ -24,7 +24,7 @@ Export a polished, production-ready portfolio. Here's what your final site looks
 <img src="screenshots/result.png" width="800">
 
 ### Live Demo
-[View Live](https://creavyn.vercel.app/)
+[View Live Demo](https://creavyn.vercel.app/)
 
 
 ## Features

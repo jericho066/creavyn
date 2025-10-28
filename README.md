@@ -9,7 +9,7 @@ A modern, intuitive web application that helps developers create beautiful portf
 
 #### Choose Your Template
 Start with one of our professionally designed templates - Minimal or Bold.
-<img src="screenshots/tamplate.png" width="800">
+<img src="screenshots/template.png" width="800">
 
 #### Build in Real-Time
 Edit your portfolio on the left, see changes instantly on the right. Live preview updates as you type.
